@@ -31,7 +31,7 @@ List of free Trials for Managed Kubernetes
   - Link: [https://kubesail.com/deployments](https://kubesail.com/deployments)
 
 
-# Sources: 
+# Sources
 - https://medium.com/techprimers/free-tiers-in-different-cloud-platforms-for-trying-out-kubernetes-2ccda3f296dc
 
 # Issues, more resources? 
