@@ -21,8 +21,8 @@ List of free Trials for Managed Kubernetes
   - The most used platform for playing with Kubernetes. There are different flavours of kubernetes clusters which you can use including a minikube version.
   - Link: [https://www.katacoda.com/courses/kubernetes](https://www.katacoda.com/courses/kubernetes)
 - **Tryk8s**
- - Playground for trying Kubernetes for free.
- - Link: [https://tryk8s.com/](https://tryk8s.com/)
+  - Playground for trying Kubernetes for free.
+  - Link: [https://tryk8s.com/](https://tryk8s.com/)
 - **CodeFresh**
   - Leverages the Google Cloud Platform, provides $500 credit for trying out Kubernetes.
   - Link: [https://codefresh.io/google-cloud/](https://codefresh.io/google-cloud/)
