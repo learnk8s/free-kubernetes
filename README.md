@@ -46,5 +46,12 @@ List of free Trials for Managed Kubernetes
 - https://medium.com/techprimers/free-tiers-in-different-cloud-platforms-for-trying-out-kubernetes-2ccda3f296dc
 - The Internet
 
+# Maintainers
+- [Salaboy](http://twitter.com/salaboy)
+- [LearnK8s](http://twitter.com/learnk8s)
+
+# Contributors
+- [TheYkk](https://github.com/TheYkk)
+
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
