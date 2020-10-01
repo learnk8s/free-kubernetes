@@ -11,7 +11,7 @@ List of free Trials for Managed Kubernetes
 - **IBM Cloud**
   - Single worker node Kubernetes cluster along with container registry like other cloud providers. This is more than enough for a beginner to try the concepts of Kubernetes
   - Link: [https://www.ibm.com/cloud/free/](https://www.ibm.com/cloud/free/)
-- **Linode LKE**
+- **Linode (LKE)**
   - LKE $100 credit for using Linode infrastructure and services
   - Link: [https://www.linode.com/lp/brand-free-credit](https://www.linode.com/lp/brand-free-credit/?utm_source=google&utm_medium=cpc&utm_campaign=11178784744_109179228203&utm_term=g_kwd-382938117749_e_linode%20free%20credit&utm_content=466889770057&locationid=9072502&device=c_c&gclid=EAIaIQobChMIseSc88iR7AIVT83tCh3LLAoCEAAYAiAAEgLc5_D_BwE)
 - **Alibaba Cloud**
@@ -32,6 +32,9 @@ List of free Trials for Managed Kubernetes
 - **KubeSail**
   - Signup using Github and get a free kubernetes cluster for learning kubernetes
   - Link: [https://kubesail.com/deployments](https://kubesail.com/deployments)
+  
+# Others
+- [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
 
 # Sources
