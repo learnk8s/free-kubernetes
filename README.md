@@ -4,6 +4,7 @@ List of free Trials for Managed Kubernetes
 - **Google Cloud Platform (GKE)**
   - $300 credit which can be used for a 12 month period from the account creation. There is no restriction on the resources and the number of nodes for creating a cluster. 
   - Extras: you can add Istio and Try Cloud Run (Knative)
+  - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out. 
   - Link: [https://cloud.google.com/free/](https://cloud.google.com/free/)
 - **Microsoft Azure (AKS)**
   - $200 credit which can be used for a 12 month period from the account creation. However, the Azure Kubernetes Service is free for AI and ML workloads which falls into the always free resource list.
@@ -32,7 +33,11 @@ List of free Trials for Managed Kubernetes
 - **KubeSail**
   - Signup using Github and get a free kubernetes cluster for learning kubernetes
   - Link: [https://kubesail.com/deployments](https://kubesail.com/deployments)
-  
+- **Civo Cloud**
+  - Monthly $70 discount for managed k3s cluster
+  - Details: [https://www.civo.com/learn/kubernetes-faq](https://www.civo.com/learn/kubernetes-faq)
+  - Requirements: a Credit Card is required for signing up, but you will not be charged if your consumption is less than $70 
+  - Link [https://www.civo.com/kube100](https://www.civo.com/kube100)
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
