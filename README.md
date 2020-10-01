@@ -32,7 +32,9 @@ List of free Trials for Managed Kubernetes
 - **KubeSail**
   - Signup using Github and get a free kubernetes cluster for learning kubernetes
   - Link: [https://kubesail.com/deployments](https://kubesail.com/deployments)
-  
+- **Civo Cloud**
+  - Monthly $70 discount for managed k3s cluster
+  - Link [https://www.civo.com/kube100](https://www.civo.com/kube100)
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
