@@ -35,7 +35,7 @@ List of free Trials for Managed Kubernetes
   - Link: [https://kubesail.com/deployments](https://kubesail.com/deployments)
 - **Civo Cloud**
   - Monthly $70 discount for managed k3s cluster
-  - Details: https://www.civo.com/learn/kubernetes-faq
+  - Details: [https://www.civo.com/learn/kubernetes-faq](https://www.civo.com/learn/kubernetes-faq)
   - Requirements: a Credit Card is required for signing up, but you will not be charged if your consumption is less than $70 
   - Link [https://www.civo.com/kube100](https://www.civo.com/kube100)
 # Others
