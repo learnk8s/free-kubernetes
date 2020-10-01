@@ -40,7 +40,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Requirements: a Credit Card is required for signing up, but you will not be charged if your consumption is less than $70 
   - Link: [https://www.civo.com/kube100](https://www.civo.com/kube100)
 - **Okteto Cloud**
-  - Description: Managed Kubernetes service designed for developers. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.
+  - Description: Managed Kubernetes service designed for developers. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity. You have access to a single namespace. 
   - Details: [https://okteto.com/docs/cloud](https://okteto.com/docs/cloud)
   - Requirements: a Github account is required for signing up.
   - Link: [https://cloud.okteto.com/](https://cloud.okteto.com/)
@@ -58,6 +58,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 
 # Contributors
 - [TheYkk](https://github.com/TheYkk)
+- [pchico83](http://github.com/pchico83)
 
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
