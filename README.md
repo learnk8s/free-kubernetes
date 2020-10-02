@@ -46,7 +46,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Link: [https://cloud.okteto.com/](https://cloud.okteto.com/)
  - **Huawei Cloud**
    - Description:  Register and get 1500 hours of free trial. Up to 10Gb available to download and store docker container images (Always free)
-   - Details: https://activity.huaweicloud.com/intl/en-us/free_packages/](https://activity.huaweicloud.com/intl/en-us/free_packages/)
+   - Details: [https://activity.huaweicloud.com/intl/en-us/free_packages/](https://activity.huaweicloud.com/intl/en-us/free_packages/)
    - Requirements: A Credit Card is required for signing up
    - Link: [https://reg.huaweicloud.com/registerui/register.html/](https://reg.huaweicloud.com/registerui/register.html)
 # Others
