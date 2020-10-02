@@ -2,7 +2,7 @@
 List of free Trials/Credit for Managed Kubernetes Services
 
 - **Google Cloud Platform (GKE)**
-  - Description: $300 credit which can be used for a 12 month period from the account creation. There is no restriction on the resources and the number of nodes for creating a cluster. 
+  - Description: $300 credit which can be used for a 3 month period from the account creation. There is no restriction on the resources and the number of nodes for creating a cluster.
   - Extras: you can add Istio and Try Cloud Run (Knative)
   - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out. 
   - Link: [https://cloud.google.com/free/](https://cloud.google.com/free/)
@@ -13,7 +13,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Description: Single worker node Kubernetes cluster along with container registry like other cloud providers. This is more than enough for a beginner to try the concepts of Kubernetes
   - Link: [https://www.ibm.com/cloud/free/](https://www.ibm.com/cloud/free/)
 - **Linode (LKE)**
-  - Description: LKE $100 credit for using Linode infrastructure and services
+  - Description: LKE $100 credit for a 2 month period from the account creation to use Linode infrastructure and services.
   - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out. 
   - Link: [https://www.linode.com/lp/brand-free-credit](https://www.linode.com/lp/brand-free-credit/?utm_source=google&utm_medium=cpc&utm_campaign=11178784744_109179228203&utm_term=g_kwd-382938117749_e_linode%20free%20credit&utm_content=466889770057&locationid=9072502&device=c_c&gclid=EAIaIQobChMIseSc88iR7AIVT83tCh3LLAoCEAAYAiAAEgLc5_D_BwE)
 - **Alibaba Cloud**
