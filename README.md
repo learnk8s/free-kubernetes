@@ -64,6 +64,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 # Contributors
 - [TheYkk](https://github.com/TheYkk)
 - [pchico83](http://github.com/pchico83)
+- [devInTheNorth](http://github.com/devInTheNorth)
 
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
