@@ -37,7 +37,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 - **Civo Cloud**
   - Description: Monthly $70 discount for managed k3s cluster
   - Details: [https://www.civo.com/learn/kubernetes-faq](https://www.civo.com/learn/kubernetes-faq)
-  - Requirements: a Credit Card is required for signing up, but you will not be charged if your consumption is less than $70 
+  - Bonus: No Credit Card is required to get 70$ free credit
   - Link: [https://www.civo.com/kube100](https://www.civo.com/kube100)
 - **Okteto Cloud**
   - Description: Managed Kubernetes service designed for developers. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity. You have access to a single namespace. 
