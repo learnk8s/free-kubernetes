@@ -49,6 +49,11 @@ List of free Trials/Credit for Managed Kubernetes Services
    - Details: [https://activity.huaweicloud.com/intl/en-us/free_packages/](https://activity.huaweicloud.com/intl/en-us/free_packages/)
    - Requirements: A Credit Card is required for signing up
    - Link: [https://reg.huaweicloud.com/registerui/register.html/](https://reg.huaweicloud.com/registerui/register.html)
+- **DigitalOcean**
+  - Description: DigitalOcean provides 100$ trial credit for first 60days. This require a referral from existing users or use the below URL which is the official referral URL.
+  - Requirements: A Credit Card is required for signing up
+  - Link: [https://m.do.co/c/8cce85e94a19](https://m.do.co/c/8cce85e94a19)
+ 
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
