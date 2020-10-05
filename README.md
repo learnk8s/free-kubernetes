@@ -72,6 +72,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [devInTheNorth](http://github.com/devInTheNorth)
 - [ngoduykhanh](https://github.com/ngoduykhanh)
 - [saiyam1814](https://github.com/saiyam1814)
+- [soorajshankar](https://github.com/soorajshankar)
 
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
