@@ -53,6 +53,10 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Description: DigitalOcean provides 100$ trial credit for first 60days. This require a referral from existing users or use the below URL which is the official referral URL.
   - Requirements: A Credit Card is required for signing up
   - Link: [https://m.do.co/c/8cce85e94a19](https://m.do.co/c/8cce85e94a19)
+- **Kubernautic**
+  - Description: Rancher Shared or Dedicated as a Service to manage and run kubernetes either On-Prem or as a Cloudless service.
+  - Pricing: [Forever Free/Free Trial/Paid Tier Available](https://kubernauts.de/en/pricing/). Forever free plan includes a single user, shared rancher dashboard, spot namespaces, 1CPU, 1Gi Mem. While the Free trial plan includes 2 user, shared rancher dashboard, stateful namespaces, 2CPU, 2Gi Mem, 10GB storage.
+  - Link: [https://kubernautic.com/](https://kubernautic.com/)
  
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
@@ -73,6 +77,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [ngoduykhanh](https://github.com/ngoduykhanh)
 - [saiyam1814](https://github.com/saiyam1814)
 - [soorajshankar](https://github.com/soorajshankar)
+- [milindchawre](https://github.com/milindchawre)
 
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
