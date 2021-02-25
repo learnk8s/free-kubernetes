@@ -22,6 +22,10 @@ List of free Trials/Credit for Managed Kubernetes Services
 - **Redhat OpenShift**
   - Description: Single node PaaS over Kubernetes.It can be used for a trial period of 60 days in your RedHat account
   - Link: [https://www.openshift.com/try](https://www.openshift.com/try)
+- **Platform9 Managed Kubernetes (Freedom Plan)**
+  - Description: Free forever managed Kubernetes service that runs on AWS, Azure, On-premises (VMs or bare metal).  Free up to 20 nodes and 5 users and includes management dashboard, CLI, API, managed upgrades, patches, built-in Prometheus monitoring.
+  - Requirements: No Credit Card required to sign up.  A valid email is required.
+  - Link: [https://platform9.com/signup](https://platform9.com/signup)
 - **Katacoda**
   - Description: The most used platform for playing with Kubernetes. Different flavours of kubernetes clusters to choose, including a minikube version.
   - Link: [https://www.katacoda.com/courses/kubernetes](https://www.katacoda.com/courses/kubernetes)
