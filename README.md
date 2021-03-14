@@ -8,6 +8,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Link: [https://cloud.google.com/free/](https://cloud.google.com/free/)
 - **Microsoft Azure (AKS)**
   - Description: $200 credit which can be used for a 12 month period from the account creation. However, the Azure Kubernetes Service is free for AI and ML workloads which falls into the always free resource list.
+  - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out. 
   - Link: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
 - **IBM Cloud**
   - Description: Single worker node Kubernetes cluster along with container registry like other cloud providers. This is more than enough for a beginner to try the concepts of Kubernetes
