@@ -29,9 +29,6 @@ List of free Trials/Credit for Managed Kubernetes Services
 - **CodeFresh**
   - Description: Leverages the Google Cloud Platform, provides $500 credit for trying out Kubernetes.
   - Link: [https://codefresh.io/google-cloud/](https://codefresh.io/google-cloud/)
-- **KubeSail**
-  - Description: Signup using Github and get a free kubernetes cluster for learning kubernetes
-  - Link: [https://kubesail.com/deployments](https://kubesail.com/deployments)
 - **Civo Cloud**
   - Description: Monthly $70 discount for managed k3s cluster
   - Details: [https://www.civo.com/learn/kubernetes-faq](https://www.civo.com/learn/kubernetes-faq)
