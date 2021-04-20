@@ -52,6 +52,13 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Description: Rancher Shared or Dedicated as a Service to manage and run kubernetes either On-Prem or as a Cloudless service.
   - Pricing: [Forever Free/Free Trial/Paid Tier Available](https://kubernauts.de/en/pricing/). Forever free plan includes a single user, shared rancher dashboard, spot namespaces, 1CPU, 1Gi Mem. While the Free trial plan includes 2 user, shared rancher dashboard, stateful namespaces, 2CPU, 2Gi Mem, 10GB storage.
   - Link: [https://kubernautic.com/](https://kubernautic.com/)
+- **Oracle**
+  - Description: Oracle provices 300$ trial credit for 30 days which can be used to get 4,500 hours of compute for managed Kubernetes and 500 GB of storage for highly available Docker registry.
+  - Details: [https://www.oracle.com/cloud/free/](https://www.oracle.com/cloud/free/)
+
+  | Always Free | 30-day Free Trial |
+  | - | - |
+  | Two Oracle Autonomous Databases with powerful tools like Oracle Application Express (APEX) and Oracle SQL Developer. Two Oracle Cloud Infrastructure Compute VMs; Block, Object, and Archive Storage; Load Balancer and data egress; Monitoring and Notifications. | US$300 in free credits. Access to a wide range of Oracle Cloud services for 30 days, including Databases, Analytics, Compute, and Container Engine for Kubernetes. Up to eight instances across all available services. Up to 5 TB of storage. |
  
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
