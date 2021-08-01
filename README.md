@@ -11,7 +11,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out. 
   - Link: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
 - **IBM Cloud**
-  - Description: Single worker node Kubernetes cluster along with container registry like other cloud providers. This is more than enough for a beginner to try the concepts of Kubernetes
+  - Description: Single worker node Kubernetes cluster along with container registry like other cloud providers. This is more than enough for a beginner to try the concepts of Kubernetes. Free cluster expires after 30 days.
   - Link: [https://www.ibm.com/cloud/free/](https://www.ibm.com/cloud/free/)
 - **Linode (LKE)**
   - Description: LKE $100 credit for a 2 month period from the account creation to use Linode infrastructure and services.
