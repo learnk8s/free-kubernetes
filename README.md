@@ -52,7 +52,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Pricing: [Forever Free/Free Trial/Paid Tier Available](https://kubernauts.de/en/pricing/). Forever free plan includes a single user, shared rancher dashboard, spot namespaces, 1CPU, 1Gi Mem. While the Free trial plan includes 2 user, shared rancher dashboard, stateful namespaces, 2CPU, 2Gi Mem, 10GB storage.
   - Link: [https://kubernautic.com/](https://kubernautic.com/)
 - **Freebernetes Cloud Platform (FCP)**
-  - Description: Short-lived Kubernetes cluster for educational purposes. Works on a crowdfunding model, so other limits may change over time. Initial restrictions: 6h TTL, 2CPU, 4Gi Mem, 10Gi PV, external IPv6 for control plane/workers ( jump container for IPv4-only users with 'kubectl'/'helm' tools)
+  - Description: Short-lived Kubernetes cluster for educational purposes. Works on a crowdfunding model, so other limits may change over time. Initial restrictions: 6h TTL, 2CPU, 4Gi Mem, 10Gi PV, external IPv6 for control plane/workers ( jump container for IPv4-only users with `kubectl`/`helm` tools)
   - Requirements: A valid email is required.
   - Link: [https://try-fcp.org/](https://try-fcp.org/)
  
