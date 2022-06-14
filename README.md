@@ -55,7 +55,10 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Description: Short-lived Kubernetes cluster for educational purposes. Works on a crowdfunding model, so other limits may change over time. Initial restrictions: 6h TTL, 2CPU, 4Gi Mem, 10Gi PV, external IPv6 for control plane/workers ( jump container for IPv4-only users with `kubectl`/`helm` tools)
   - Requirements: A valid email is required.
   - Link: [https://try-fcp.org/](https://try-fcp.org/)
- 
+- **KraudCloud**
+  - Description: Free kubernetes clusters with 32GB RAM during its 6 month beta phase.
+  - Requirements: A Github account is required for signing up and getting an invite.
+  - Link: [https://kraudcloud.com/](https://kraudcloud.com/)
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
