@@ -80,6 +80,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [soorajshankar](https://github.com/soorajshankar)
 - [milindchawre](https://github.com/milindchawre)
 - [varsubham](https://github.com/varsubham)
-
+- [aep](https://github.com/aep)
+- 
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
