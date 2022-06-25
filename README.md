@@ -78,6 +78,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [milindchawre](https://github.com/milindchawre)
 - [varsubham](https://github.com/varsubham)
 - [aep](https://github.com/aep)
+- [HelixSpiral](https://github.com/HelixSpiral)
 - 
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
