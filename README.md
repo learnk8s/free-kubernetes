@@ -23,9 +23,6 @@ List of free Trials/Credit for Managed Kubernetes Services
 - **Redhat OpenShift**
   - Description: Single node PaaS over Kubernetes.It can be used for a trial period of 60 days in your RedHat account
   - Link: [https://www.openshift.com/try](https://www.openshift.com/try)
-- **Katacoda**
-  - Description: The most used platform for playing with Kubernetes. Different flavours of kubernetes clusters to choose, including a minikube version.
-  - Link: [https://www.katacoda.com/courses/kubernetes](https://www.katacoda.com/courses/kubernetes)
 - **CodeFresh**
   - Description: Leverages the Google Cloud Platform, provides $500 credit for trying out Kubernetes.
   - Link: [https://codefresh.io/google-cloud/](https://codefresh.io/google-cloud/)
