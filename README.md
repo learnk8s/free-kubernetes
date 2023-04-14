@@ -56,6 +56,10 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Description: Free kubernetes clusters with 32GB RAM during its 6 month beta phase.
   - Requirements: A Github account is required for signing up and getting an invite.
   - Link: [https://kraudcloud.com/](https://kraudcloud.com/)
+- **Symbiosis**
+  - Description: $50 credit for a month starting when creating the first cluster.
+  - Requirements: A Credit Card is required for signing up.
+  - Link: [https://symbiosis.host/](https://symbiosis.host/)
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
