@@ -1,5 +1,5 @@
 # Free Kubernetes
-List of free Trials/Credit for Managed Kubernetes Services
+List of free Trials/Credits for Managed Kubernetes Services
 
 - **Google Cloud Platform (GKE)**
   - Description: $300 credit which can be used for a 3 month period from the account creation. There is no restriction on the resources and the number of nodes for creating a cluster.
