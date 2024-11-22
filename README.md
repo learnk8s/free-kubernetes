@@ -61,6 +61,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [Salaboy](http://twitter.com/salaboy)
 - [LearnK8s](http://twitter.com/learnk8s)
 
+
 # Contributors
 - [TheYkk](https://github.com/TheYkk)
 - [pchico83](http://github.com/pchico83)
@@ -72,6 +73,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [varsubham](https://github.com/varsubham)
 - [aep](https://github.com/aep)
 - [HelixSpiral](https://github.com/HelixSpiral)
-- 
+
+
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
