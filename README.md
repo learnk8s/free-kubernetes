@@ -12,6 +12,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Link: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
 - **IBM Cloud**
   - Description: Single worker node Kubernetes cluster along with container registry like other cloud providers. This is more than enough for a beginner to try the concepts of Kubernetes. Free cluster expires after 30 days.
+  - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out.
   - Link: [https://www.ibm.com/cloud/free/](https://www.ibm.com/cloud/free/)
 - **Linode (LKE)**
   - Description: LKE $100 credit for a 2 month period from the account creation to use Linode infrastructure and services.
@@ -19,6 +20,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Link: [https://www.linode.com/lp/brand-free-credit](https://www.linode.com/lp/brand-free-credit/?utm_source=google&utm_medium=cpc&utm_campaign=11178784744_109179228203&utm_term=g_kwd-382938117749_e_linode%20free%20credit&utm_content=466889770057&locationid=9072502&device=c_c&gclid=EAIaIQobChMIseSc88iR7AIVT83tCh3LLAoCEAAYAiAAEgLc5_D_BwE)
 - **Alibaba Cloud**
   - Description: $300 credit which can be used for a 12 month period from the account creation. They also provide Kubernetes in the always free resource list.
+  - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out.
   - Link: [https://www.alibabacloud.com/](https://account.alibabacloud.com/register/intl_register.htm?spm=a3c0i.272861.3156523820.52.273f24af6J56ph&oauth_callback=https%3A%2F%2Feu.alibabacloud.com%2F&)
 - **Redhat OpenShift**
   - Description: Single node PaaS over Kubernetes.It can be used for a trial period of 60 days in your RedHat account
