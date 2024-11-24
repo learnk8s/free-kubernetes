@@ -49,6 +49,10 @@ List of free Trials/Credits for Managed Kubernetes Services
   - Description: $50 credit for a month starting when creating the first cluster.
   - Requirements: A Credit Card is required for signing up.
   - Link: [https://symbiosis.host/](https://symbiosis.host/)
+- **Iximiuz Labs**
+  - Description: Free playgrounds and challenges to explore with various kubernetes systems pre-configured.
+  - Requirements: A Github account is required for signing up and logging in.
+  - Link: [https://labs.iximiuz.com](https://labs.iximiuz.com)
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
