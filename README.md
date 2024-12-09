@@ -49,6 +49,11 @@ List of free Trials/Credits for Managed Kubernetes Services
   - Description: $50 credit for a month starting when creating the first cluster.
   - Requirements: A Credit Card is required for signing up.
   - Link: [https://symbiosis.host/](https://symbiosis.host/)
+- **BizflyCloud*(
+  - Description: 300.000 ₫ credit for a 7 days starting when creating the first cluster. Limited to one cluster only (Vietnamese)
+  - Requirements: Activation Cloud Server trail (also free)
+  - Link: [https://bizflycloud.vn/kubernetes-engine](https://bizflycloud.vn/kubernetes-engine)
+=======
 - **Iximiuz Labs**
   - Description: Free playgrounds and challenges to explore with various kubernetes systems pre-configured.
   - Requirements: A Github account is required for signing up and logging in.
@@ -77,6 +82,8 @@ List of free Trials/Credits for Managed Kubernetes Services
 - [varsubham](https://github.com/varsubham)
 - [aep](https://github.com/aep)
 - [HelixSpiral](https://github.com/HelixSpiral)
+- [lmq1999](https://github.com/lmq1999)
+=======
 
 
 # Issues, more resources? 
