@@ -1,5 +1,5 @@
 # Free Kubernetes
-List of free Trials/Credit for Managed Kubernetes Services
+List of free Trials/Credits for Managed Kubernetes Services
 
 - **Google Cloud Platform (GKE)**
   - Description: $300 credit which can be used for a 3 month period from the account creation. There is no restriction on the resources and the number of nodes for creating a cluster.
@@ -12,6 +12,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Link: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
 - **IBM Cloud**
   - Description: Single worker node Kubernetes cluster along with container registry like other cloud providers. This is more than enough for a beginner to try the concepts of Kubernetes. Free cluster expires after 30 days.
+  - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out.
   - Link: [https://www.ibm.com/cloud/free/](https://www.ibm.com/cloud/free/)
 - **Linode (LKE)**
   - Description: LKE $100 credit for a 2 month period from the account creation to use Linode infrastructure and services.
@@ -19,6 +20,7 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Link: [https://www.linode.com/lp/brand-free-credit](https://www.linode.com/lp/brand-free-credit/?utm_source=google&utm_medium=cpc&utm_campaign=11178784744_109179228203&utm_term=g_kwd-382938117749_e_linode%20free%20credit&utm_content=466889770057&locationid=9072502&device=c_c&gclid=EAIaIQobChMIseSc88iR7AIVT83tCh3LLAoCEAAYAiAAEgLc5_D_BwE)
 - **Alibaba Cloud**
   - Description: $300 credit which can be used for a 12 month period from the account creation. They also provide Kubernetes in the always free resource list.
+  - Requirements: a Credit Card is required for signing up, but you will not be charged if your credit runs out.
   - Link: [https://www.alibabacloud.com/](https://account.alibabacloud.com/register/intl_register.htm?spm=a3c0i.272861.3156523820.52.273f24af6J56ph&oauth_callback=https%3A%2F%2Feu.alibabacloud.com%2F&)
 - **Redhat OpenShift**
   - Description: Single node PaaS over Kubernetes.It can be used for a trial period of 60 days in your RedHat account
@@ -39,14 +41,6 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Description: DigitalOcean provides 100$ trial credit for first 60days. This require a referral from existing users or use the below URL which is the official referral URL.
   - Requirements: A Credit Card is required for signing up
   - Link: [https://m.do.co/c/8cce85e94a19](https://m.do.co/c/8cce85e94a19)
-- **Kubernautic**
-  - Description: Rancher Shared or Dedicated as a Service to manage and run kubernetes either On-Prem or as a Cloudless service.
-  - Pricing: [Forever Free/Free Trial/Paid Tier Available](https://kubernauts.de/en/pricing/). Forever free plan includes a single user, shared rancher dashboard, spot namespaces, 1CPU, 1Gi Mem. While the Free trial plan includes 2 user, shared rancher dashboard, stateful namespaces, 2CPU, 2Gi Mem, 10GB storage.
-  - Link: [https://kubernautic.com/](https://kubernautic.com/)
-- **Freebernetes Cloud Platform (FCP)**
-  - Description: Short-lived Kubernetes cluster for educational purposes. Works on a crowdfunding model, so other limits may change over time. Initial restrictions: 6h TTL, 2CPU, 4Gi Mem, 10Gi PV, external IPv6 for control plane/workers ( jump container for IPv4-only users with `kubectl`/`helm` tools)
-  - Requirements: A valid email is required.
-  - Link: [https://try-fcp.org/](https://try-fcp.org/)
 - **KraudCloud**
   - Description: Free kubernetes clusters with 32GB RAM during its 6 month beta phase.
   - Requirements: A Github account is required for signing up and getting an invite.
@@ -55,10 +49,15 @@ List of free Trials/Credit for Managed Kubernetes Services
   - Description: $50 credit for a month starting when creating the first cluster.
   - Requirements: A Credit Card is required for signing up.
   - Link: [https://symbiosis.host/](https://symbiosis.host/)
-- **BizflyCloud**
-  - Description: 300.000 ₫ credit for a 7 days starting when creating the first cluster. Limited to one cluster only
+- **BizflyCloud*(
+  - Description: 300.000 ₫ credit for a 7 days starting when creating the first cluster. Limited to one cluster only (Vietnamese)
   - Requirements: Activation Cloud Server trail (also free)
   - Link: [https://bizflycloud.vn/kubernetes-engine](https://bizflycloud.vn/kubernetes-engine)
+=======
+- **Iximiuz Labs**
+  - Description: Free playgrounds and challenges to explore with various kubernetes systems pre-configured.
+  - Requirements: A Github account is required for signing up and logging in.
+  - Link: [https://labs.iximiuz.com](https://labs.iximiuz.com)
 # Others
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
@@ -70,6 +69,7 @@ List of free Trials/Credit for Managed Kubernetes Services
 # Maintainers
 - [Salaboy](http://twitter.com/salaboy)
 - [LearnK8s](http://twitter.com/learnk8s)
+
 
 # Contributors
 - [TheYkk](https://github.com/TheYkk)
@@ -83,6 +83,8 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [aep](https://github.com/aep)
 - [HelixSpiral](https://github.com/HelixSpiral)
 - [lmq1999](https://github.com/lmq1999)
+=======
+
 
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
